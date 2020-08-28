@@ -1,4 +1,4 @@
-#Hello World!
+# Hello World!
 
 
 This is not a decent README.md file...but it will be, soon enough!
@@ -12,3 +12,10 @@ For now:
 
 #### I LOVE YOU ALL! LOVE IS ALL WE NEED
 _(and also bacon...)_
+
+
+#### To reach out to me:
+Instagram: [@thericardoprins](https://www.instagram.com/thericardoprins)
+Twitter: [@thericardoprins](https://www.twitter.com/thericardoprins)
+LinkedIn: [/ricprins](https://www.linkedin.com/in/thericardoprins)
+Website: [www.iamprins.com](https://www.iamprins.com)
