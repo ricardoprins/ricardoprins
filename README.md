@@ -15,8 +15,5 @@ _(and also bacon...)_
 
 
 #### To reach out to me:
-Instagram: [@thericardoprins](https://www.instagram.com/thericardoprins)
-
+(No more woke media - just shoot me an email: ricardo (at) iamprins (dot) com)
 LinkedIn: [/ricprins](https://www.linkedin.com/in/thericardoprins)
-
-Website: [www.iamprins.com](https://www.iamprins.com)
