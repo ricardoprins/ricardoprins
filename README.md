@@ -1,9 +1,7 @@
 # Hello World!
 
 
-This is not a decent README.md file...but it will be, soon enough!
-
-For now:
+Hi. I am Ricardo, and this is what you should do at this point:
 
 * Visit Tesseract Coding's [NeoAlgo](https://github.com/TesseractCoding/NeoAlgo) repository and contribute!
 * Take your vitamins and keep swimming!
