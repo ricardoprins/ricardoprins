@@ -12,6 +12,12 @@ Hi. I am Ricardo, and this is what you should do at this point:
 _(and also bacon...)_
 
 
+#### IMPORTANT NEW PROJECT
+* https://github.com/TesseractCoding/NeoAlgo-Docs
+ 
+Our NeoAlgo Docs is now a part of Google Summer of Docs!
+Please check it out and contribute!
+
 #### To reach out to me:
 (No more woke media - just shoot me an email: ricardo (at) iamprins (dot) com)
 LinkedIn: [/ricprins](https://www.linkedin.com/in/thericardoprins)
