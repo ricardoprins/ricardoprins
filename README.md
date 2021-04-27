@@ -15,7 +15,7 @@ _(and also bacon...)_
 #### IMPORTANT NEW PROJECT
 * https://github.com/TesseractCoding/NeoAlgo-Docs
  
-Our NeoAlgo Docs is now a part of Google Summer of Docs!
+Our NeoAlgo Docs is now a part of GSSOD!
 Please check it out and contribute!
 
 #### To reach out to me:
