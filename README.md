@@ -2,6 +2,8 @@
 
 Coder, Literature aficionado, father of a little boy with another kid coming soon. Brazilian, currently living in Utah, USA.
 
+MSFT Beta Student Ambassador
+
 # Places to visit from here
 
 * [NeoAlgo](https://github.com/TesseractCoding/NeoAlgo) - the place to go for DS & Algos
