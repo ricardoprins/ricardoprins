@@ -21,5 +21,4 @@ MSFT Beta Student Ambassador
 
 
 # How to reach out
-(No more woke media - just shoot me an email: ricardo (at) iamprins (dot) com)
-LinkedIn: [/ricprins](https://www.linkedin.com/in/thericardoprins) - I haven't updated it in a while though...
+LinkedIn: [/ricprins](https://www.linkedin.com/in/thericardoprins)
