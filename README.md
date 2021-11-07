@@ -21,4 +21,10 @@ MSFT Beta Student Ambassador
 
 
 # How to reach out
-LinkedIn: [/ricprins](https://www.linkedin.com/in/thericardoprins)
+No social media for me. Time consuming, boring. Not cool.
+That doesn't mean I don't exist. However, time is valuable! 
+For this reason, if you think you have a valuable thing that you want to share, or that we need to discuss, feel free to send me an email.
+
+A word of caution, though: I only read emails twice a week, so don't feel bad if you don't get any response. I normally won't, unless it's something interesting, or cool.
+
+ricprins at protonmail dotcom
