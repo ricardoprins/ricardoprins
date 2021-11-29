@@ -1,10 +1,9 @@
 # About me
 
-Coder, Literature aficionado, father of a little boy with another kid coming soon. Brazilian, currently living in Utah, USA.
+Coder, Literature aficionado, proud father of a little boy and a little girl, currently living in Utah, USA.
+MSFT Beta Student Ambassador, former Google DSC Lead, former MLH Fellow.
 
-MSFT Beta Student Ambassador
-
-# Places to visit from here
+# Places to visit from here:
 
 * [NeoAlgo](https://github.com/TesseractCoding/NeoAlgo) - the place to go for DS & Algos
 * [NeoAlgo Docs](https://github.com/TesseractCoding/NeoAlgo-Docs) - learning spot for DS & Algos
@@ -13,11 +12,11 @@ MSFT Beta Student Ambassador
 
 # Things you can find me messing with:
 * Quantum Computing (Q#, Qiskit, PennyLane)
-* Python!
+* Python, Maths (together, preferrably)
 * Machine Learning, Deep Learning, NLP
 * Crypto! Blockchain, cryptocurrencies - this is the future
 * Webscraping: because ALL UR DATA BELONGZ TO USSSS!
-* Hackathons - I've won many, been well placed in some others. Please invite me to your team!
+* Hackathons - I've won many, been well placed in some others.
 
 
 # How to reach out
