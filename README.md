@@ -1,7 +1,7 @@
 # About me
 
 Coder, Literature aficionado, proud father of a little boy and a little girl, currently living in Utah, USA.
-MSFT Beta Student Ambassador, former Google DSC Lead, former MLH Fellow.
+Gold MSFT Learn Student Ambassador, former Google DSC Lead, former MLH Fellow.
 
 # Places to visit from here:
 
