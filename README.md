@@ -7,9 +7,8 @@ Gold MSFT Learn Student Ambassador, former Google DSC Lead, MLH Fellow.
 * Quantum Computing (Q#, Qiskit, PennyLane)
 * Python, Maths (together, preferrably)
 * Machine Learning, Deep Learning, NLP
-* Crypto! Blockchain, cryptocurrencies - this is the future
+* Blockchain, web3, et cetera.
 * Webscraping
-* Hackathons
 
 # How to reach out
 Twitter now: (at)aricardoprins
