@@ -3,5 +3,6 @@ Coder, Literature aficionado. Gold MSFT Learn Student Ambassador, former Google 
 
 ### How to reach out
 Twitter: (at)aricardoprins
+
 ricprins at pm dot me
 
