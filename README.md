@@ -11,8 +11,7 @@
 <div align="center">
   <img src="https://github.com/ricardoprins/ricardoprins/blob/master/Degas.jpeg">
 </div>
-<p></p>
-I am a Software Engineer from Brazil, living in the USA. 
+<p></p>Geez! Computer stuff I dig!
 
 - Constantly having fun with Math
 - Writing a blog and in an eternal pursuit to learn more stuff
